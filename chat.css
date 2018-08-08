@@ -1,0 +1,38 @@
+:root{
+	font-size: 16px;
+   
+}
+html{
+
+
+}
+
+
+
+.names{
+	font-size: 1.5rem;
+    
+
+}
+.msg-text{
+background-image: url(img/whatsapp-background.jpg);
+
+}
+
+.text-form{
+    margin-left: 4%;
+    width: 80%;
+
+}
+=
+.reply {
+  height: 60px;
+  width: 100vw;
+  background-color: #f5f1ee;
+  padding: 10px 5px 10px 5px !important;
+  margin: 0 !important;
+  margin-top: 10% !important;
+  position:fixed;
+  bottom: 0;
+}
+

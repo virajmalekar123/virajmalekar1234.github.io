@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html,body, root{
+height: 100%;
+    width:100%;
+    font-family: 'Poppins' , sans-serif;
+    color: #222;
+    font-size: 22px;
+    background-image: url(img/gradient.jpg)
+}
+.header-whatsapp{
+height: 6rem;    
+    max-height: 400px;
+    margin-top: 8rem;
+    background: #0c9f28
+    
+}
+.shift-right{
+float:right;
+}
+.profile-names{
+	font-size: 1.5rem;
+	font-weight: bold;
+	text-align: left
+}
+.box{
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    box-shadow: 1px 1px 15px #888888;
+}
+.names{
+font-weight: 700;
+    font-size: 1.2rem;
+    margin:0px;
+  
+}
+.names a{
+text-decoration: none;
+}
+.space-around{
+margin:2%;
+
+}
